@@ -1,10 +1,10 @@
-# Snake-Game
+# Snake-Game 🐍
 
 ### Features:
-🔸Classic snake game implemented in web format.
-🔸Playable in the browser without installation.
-🔸Navigate the snake to eat food and grow.
-🔸Avoid collisions with the walls and yourself.
+🔸Classic snake game implemented in web format.<br>
+🔸Playable in the browser without installation.<br>
+🔸Navigate the snake to eat food and grow.<br>
+🔸Avoid collisions with the walls and yourself.<br>
 🔸JavaScript for game logic, HTML/CSS for visuals.
 
 ### Give it a Shot!
