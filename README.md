@@ -1,4 +1,4 @@
-# Snake-Game 🐍
+# Snake-Game🐍
 
 ### Features:
 🔸Classic snake game implemented in web format.<br>
